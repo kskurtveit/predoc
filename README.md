@@ -11,6 +11,7 @@ Installation
 Predoc uses [LibreOffice](http://www.libreoffice.org/) (via [Docsplit](http://documentcloud.github.com/docsplit/)) to convert documents. Install LibreOffice on the web server using aptitude, apt-get, or yum:
 
     $ aptitude install libreoffice
+    $ yum install libreoffice
 
 Configuration
 -------------
